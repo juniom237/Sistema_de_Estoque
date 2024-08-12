@@ -1,0 +1,10 @@
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\bin\Debug\Sistema_de_estoque.exe.config
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\bin\Debug\Sistema_de_estoque.exe
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\bin\Debug\Sistema_de_estoque.pdb
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\obj\Debug\Sistema_de_estoque.csproj.AssemblyReference.cache
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\obj\Debug\Sistema_de_estoque.Properties.Resources.resources
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\obj\Debug\Sistema_de_estoque.csproj.GenerateResource.cache
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\obj\Debug\Sistema_de_estoque.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\obj\Debug\Sistema_de_estoque.exe
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\obj\Debug\Sistema_de_estoque.pdb
+C:\Users\junio\source\repos\Sistema_de_estoque\Sistema_de_estoque\obj\Debug\Sistema_de_estoque.Form1.resources
